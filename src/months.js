@@ -61,8 +61,8 @@ let months = [
     }
 ]
 
-function getMonths(){
-    return months
-}
+// function getMonths(){
+//     return months
+// }
 
-export default getMonths()
+// export default getMonths()

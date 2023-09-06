@@ -1,4 +1,4 @@
-import months from './months.js'
+// import months from './months.js'
 
 // Filtra meses
 const filteredMonths = months.filter( (months)=> {
